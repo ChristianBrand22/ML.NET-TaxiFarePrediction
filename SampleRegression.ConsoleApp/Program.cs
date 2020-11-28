@@ -17,7 +17,8 @@ namespace SampleRegression.ConsoleApp
             ModelInput sampleData = new ModelInput()
             {
                 VendorID = 1F,
-                Trip_distance = 2.5F,
+                //Trip_distance = 2.5F,
+                Trip_distance = 10.5F,
                 RatecodeID = 1F,
                 Payment_type = 1F,
                 Total_amount = 17.25F,
